@@ -1,0 +1,21 @@
+# -*- mode: gitignore; -*-
+
+__pycache__
+*~
+venv/
+temp/
+
+# Distribution / packaging
+bin/
+build/
+dist/
+lib/
+lib64/
+var/
+
+# Installer Logs
+pip-log.txt
+
+# Misc
+todo.org
+refs.org

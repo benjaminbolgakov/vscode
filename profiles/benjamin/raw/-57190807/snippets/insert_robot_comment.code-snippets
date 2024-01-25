@@ -1,0 +1,10 @@
+// 'prefix' value is the trigger word to type to activate the snippet
+{
+	"Insert Octothorpes": {
+	  "prefix": "octo",
+	  "body": [
+		"#### $0 ####"
+	  ],
+	  "description": "Inserts text with octothorpes and places cursor in the middle"
+	}
+  }

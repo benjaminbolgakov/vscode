@@ -1,0 +1,33 @@
+{
+    "robot.language-server.args": [
+        
+    ],
+    "robot.lint.unusedKeyword": true,
+    "missing-doc-keyword": false,
+    "robocorp.language-server.python": "C:/Users/cid14168/AppData/Local/anaconda3/python.exe",
+    "robot.language-server.python": "/home/cid14168/.virts/marinetest/bin/python3.9",
+    "editor.rulers": [120],
+    "robot.python.executable": "/home/cid14168/.virts/marinetest/bin/python3.9",
+    "editor.minimap.enabled": false,
+    "robot.python.env": {},
+    "robot.completions.keywords.prefixImportNameIgnore": [
+    
+    ],
+    "robot.lint.robocop.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "files.autoSave": "onFocusChange",
+    "robot.libraries.libdoc.needsArgs": [
+
+        "remote",
+        "fakerlib"
+    ],
+    "robot.lint.ignoreEnvironmentVariables": [
+
+    ],
+    "workbench.editor.tabSizing": "fixed",
+    "editor.hover.enabled": false,
+    "robot.codeLens.interactiveConsole.enable": false,
+    "robot.completions.keywords.format": "Title Case",
+    "editor.quickSuggestionsDelay": 2000,
+    "editor.parameterHints.enabled": false
+}
